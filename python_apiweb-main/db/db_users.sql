@@ -39,7 +39,7 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`id`, `name`, `student_number`, `birthday`) VALUES
-(49, 'Francesco Armand C. Sanarez', '03-1415-03994', '2023-10-11');
+(49, 'Juan P . Delacruz', '03-1415-03994', '2023-10-11');
 
 -- --------------------------------------------------------
 
@@ -59,12 +59,12 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`userId`, `name`, `email`, `password`) VALUES
-(1, 'Kicco', 'kicco.sanarez17@gmail.com', '123'),
-(2, 'Francesco Armand Calo Sanarez', 'frca.sanarez.up@phinmaed.com', '123'),
-(3, 'Paulo', 'paulo@gmail.com', '123'),
-(4, 'Ace', 'ace@gmail.com', '123'),
-(5, 'Abba', 'abba@gmail.com', '123'),
-(6, 'qwerty', 'qwerty@gmail.com', '123');
+(1, 'Juan', 'juan.delacruz@gmail.com', '123'),
+(2, 'Barbie Jose', 'baca.jose.up@phinmaed.com', '123'),
+(3, 'Ping', 'ping@gmail.com', '123'),
+(4, 'Pot', 'pot@gmail.com', '123'),
+(5, 'First', 'first@gmail.com', '123'),
+(6, 'faint', 'faint@gmail.com', '123');
 
 --
 -- Indexes for dumped tables
