@@ -2,9 +2,10 @@ from flask import Flask, render_template, request, redirect, url_for, session, f
 import pymysql.cursors
 import re
 
+
 app = Flask(__name__)
 
-app.secret_key = 'kicco'
+app.secret_key = 'a0ad259a8fbee24b73d496dde1dfc120'
 
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
